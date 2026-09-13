@@ -1,0 +1,6 @@
+parameter,low_case,lcoe_low_usd_per_kwh,base_case_lcoe_usd_per_kwh,high_case,lcoe_high_usd_per_kwh,scenario
+Discount rate,5%,0.05591,0.06834,12%,0.08675,optimized thermal-protection scenario
+Thermal-protection-system CAPEX,-30%,0.05353,0.06834,+30%,0.08314,optimized thermal-protection scenario
+BESS replacement cost,-30%,0.07456,0.08063,+30%,0.0867,baseline unheated scenario
+Modeled lifetime yield,-10%,0.07593,0.06834,+10%,0.06212,optimized thermal-protection scenario
+Heating OPEX,-50%,0.06779,0.06834,+50%,0.06888,optimized thermal-protection scenario

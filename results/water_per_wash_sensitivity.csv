@@ -1,0 +1,2 @@
+assumption,base_case_value,low_case_pct,annual_water_low_m3,base_case_annual_water_m3,high_case_pct,annual_water_high_m3
+V_wash (m3/event),1280.4,-30%,7469.0,10670.0,+30%,13871.0

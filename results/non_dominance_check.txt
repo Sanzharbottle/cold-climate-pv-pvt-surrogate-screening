@@ -1,0 +1,6 @@
+Non-dominance verification for round compromise point (28, 62, 18, 40):
+  Evaluated 20-year yield = 276.4972 GWh
+  Evaluated annual water = 10670.0000 m3/year
+  Evaluated thermal-protection proxy = 82.4000 % at year 20
+  Rows in pareto_solutions.csv (of 150) that dominate this point: 0
+  Conclusion: point is NON-DOMINATED relative to the returned NSGA-II front. This is not proof of global Pareto optimality.

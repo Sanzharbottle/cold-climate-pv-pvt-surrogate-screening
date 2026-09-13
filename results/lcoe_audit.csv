@@ -1,0 +1,3 @@
+scenario,lifetime_yield_gwh,capex_usd,annual_opex_usd,replacement_years,lcoe_usd_per_kwh
+baseline_unheated,242.1,7250000.0,120000.0,"(7, 14)",0.08063293121023167
+optimized_thermal_protection,276.49719999999996,7950000.0,135000.0,(),0.06833523523160802
